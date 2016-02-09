@@ -16,12 +16,12 @@ header.signup:before {
   opacity: 0.4;
 }
 
+.m-t-2 {
+  margin-top: 15px;
+}
+
 @media only screen and (min-width: 320px) and (max-width: 767px) {
   .sm-text-center {
     text-align: center;
-  }
-
-  .m-t-2 {
-    margin-top: 15px;
   }
 }
