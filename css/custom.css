@@ -1,6 +1,7 @@
 .logo {
-  min-height: 100px;
-  margin-bottom: 20px;
+  max-height: 125px !important;
+  max-width: 50% !important;
+  margin-bottom: 25px;
 }
 
 .nav-container__sub-header {
@@ -28,11 +29,4 @@ header.signup:before {
   .sm-text-center {
     text-align: center;
   }
-}
-
-.logo__sub-heading {
-  position: relative;
-  top: -40px;
-  left: 50px;
-  /*height: 0;*/
 }
