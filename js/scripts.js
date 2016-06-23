@@ -417,8 +417,8 @@ $(window).load(function(){
 	
 	if($('.instafeed').length){
 		jQuery.fn.spectragram.accessData = {
-			accessToken: '1406933036.fedaafa.feec3d50f5194ce5b705a1f11a107e0b',
-			clientID: 'fedaafacf224447e8aef74872d3820a1'
+			accessToken: '7330925.ed55e39.5ab6f6595fe74ad3ae099be4e6782578',
+			clientID: 'ed55e39396f24e38884e8d556c9c93ab'
 		};
 
 		$('.instafeed').each(function () {
