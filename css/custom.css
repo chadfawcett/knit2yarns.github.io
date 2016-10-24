@@ -15,7 +15,7 @@
 }
 
 .hero-slider .slides li.overlay:before {
-  opacity: 0;
+  opacity: .65;
 }
 
 header.signup:before {
@@ -50,4 +50,12 @@ header.signup:before {
   .sm-text-center {
     text-align: center;
   }
+}
+
+.hero-slider .slides p.hero-text {
+  font-size: 1.2em;
+}
+
+.text-light-gray {
+  color: #aaa
 }
