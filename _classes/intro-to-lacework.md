@@ -10,6 +10,6 @@ description: >
 meta_1: 1 class, 2 hours
 meta_2: April 27 - 6:00pm-8:00pm
 price: 25
-image_url: /img/IMG_4995.JPG
+image_url: img/IMG_4995.JPG
 date: 2017-04-27 18:00:00 -0800
 ---
