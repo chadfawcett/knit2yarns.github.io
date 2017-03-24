@@ -1,3 +1,4 @@
+# Site settings
 title: Knit2 Yarns - Kamloops Yarn and Knitting Shop
 description: >
   Knit2 Yarns is Kamloops' newest Yarn Shop. We have a great selection of yarns
@@ -8,6 +9,11 @@ url: ""
 facebook_username: Knit2-Yarns-1683481525241962
 instagram_username: carla_knit2yarns
 pinterest_username: crfawcett1
+
+# Collections
+collections:
+  classes:
+    output: false
 
 # Build settings
 markdown: kramdown
