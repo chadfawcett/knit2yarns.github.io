@@ -13,9 +13,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Start Date", name: "date", widget: "datetime" }
-      - { label: "Image", name: "image_url", widget: "image" }
+      - { label: "Image", name: "image_url", widget: "image", required: false }
       - { label: "Meta 1", name: "meta_1", widget: "string" }
       - { label: "Meta 2", name: "meta_2", widget: "string" }
       - { label: "Price", name: "price", widget: "number" }
-      - { label: "Price Details", name: "price_details", widget: "string" }
+      - { label: "Price Details", name: "price_details", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "text" }
