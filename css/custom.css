@@ -61,5 +61,27 @@ header.signup:before {
 }
 
 .text-light-gray {
-  color: #aaa
+  color: #aaa;
+}
+
+.blog-masonry-container {
+  margin-bottom: -30px;
+}
+
+.blog-masonry-container .price-details {
+  margin-bottom: 10px;
+}
+
+.blog-masonry-container .price {
+  font-size: 1.5em;
+  color: #8A4D9C;
+  display: inline;
+}
+
+.blog-masonry-item .post-title {
+  background-color: #F4F4F4;
+}
+
+h1 {
+  margin-bottom: 32px;
 }
