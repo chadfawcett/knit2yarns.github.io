@@ -2,21 +2,25 @@
   <div class="container">
     <h1 id="classes">Upcoming classes</h1>
 
-    {% assign length = site.classes | size %}
-    {% if length > 0 %}
-      <p class="lead">
-        If you are interested in any of our classes, please call the store
-        (<span class="bold">250-314-0276</span>) or email us
-        (<span class="bold">contact@knit2yarns.com</span>). If you would like
-        to see what the finished products look like, stop by the store and
-        we'll be happy to show you. Materials not included in class price.
-      </p>
-      <br />
+    {% assign count = 0 %}
+    {% capture now_unix %}{{ 'now' | date: "%s" }}{% endcapture %}
 
-      <div class="row">
-        <div class="blog-masonry-container">
+    <p class="lead">
+      If you are interested in any of our classes, please call the store
+      (<span class="bold">250-314-0276</span>) or email us
+      (<span class="bold">contact@knit2yarns.com</span>). If you would like
+      to see what the finished products look like, stop by the store and
+      we'll be happy to show you. Materials not included in class price.
+    </p>
+    <br />
+
+    <div class="row">
+      <div class="blog-masonry-container">
         
-          {% for class in site.classes %}
+        {% for class in site.classes %}
+          {% capture event_date %}{{ class.date | date: "%s" }}{% endcapture %}
+          {% if event_date > now_unix %}
+            {% assign count = count | plus: 1 %}
             <div class="col-md-4 col-sm-6 blog-masonry-item branding">
               <div class="item-inner">
                 {% if class.image_url %}
@@ -44,15 +48,17 @@
                 </div>
               </div>
             </div>
-          {% endfor %}
-        
-        </div>
+          {% endif %}
+        {% endfor %}
+
+        {% if count == 0 %}
+          <p class="lead">
+            We currently don't have any classes scheduled. Join our newsletter to
+            be notified when we have some planned.
+          </p>
+        {% endif %}
+
       </div>
-    {% else %}
-      <p class="lead">
-        We currently don't have any classes scheduled. Join our newsletter to
-        be notified when we have some planned.
-      </p>
-    {% endif %} 
+    </div>
   </div>
 </section>
