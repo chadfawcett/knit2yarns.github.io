@@ -1,6 +1,6 @@
 ---
 title: Knitting 101
-date: 2017-10-17T00:00:00-07:00
+date: 2017-10-17T07:00:00.000Z
 image_url: null
 meta_1: '2 classes, 2 hours each'
 meta_2: 'Oct 17 and 24 - 6:00pm-8:00pm'
@@ -10,5 +10,6 @@ description: >-
   purl stitches, as well as knitting in the round while making a beautiful cowl.
   A good accessory for our winters!
 ---
+
 
 
