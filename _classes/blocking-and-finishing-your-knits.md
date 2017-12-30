@@ -1,13 +1,13 @@
 ---
 title: Blocking and Finishing your knits
-date: 2017-11-18T10:00:37-08:00
+date: 2018-02-17T10:00:37-08:00
 image_url: null
-meta_1: '1 class, 1.5 hours'
-meta_2: 'Nov 18 - 10:00am-11:30am'
-price: '15'
+meta_1: '1 class, 2 hours'
+meta_2: 'Feb 17 - 10:00am-12:00pm'
+price: '20'
 price_details: null
 description: >-
-  In this class you will learn why and how to block; the simple beauty of the
-  mattress stitch for seaming and several ways to weave in those ends!
+  This is an informative class about how and when to block your knitting. Also
+  how to seam those pieces together neatly. An excellent class!
 ---
 
