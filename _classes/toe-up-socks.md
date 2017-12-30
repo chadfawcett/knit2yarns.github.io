@@ -8,5 +8,6 @@ price: 25
 description: >-
   This is a different way of knitting socks two at a time. No second sock
   syndrome here!  Lots of knitting time between the classes too so you can get
-  them done.
+  them done.<br /><br />
+  Level: confident beginner. Should be comfortable knitting in the round
 ---

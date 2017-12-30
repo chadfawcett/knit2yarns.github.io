@@ -7,7 +7,8 @@ meta_2: 'Feb 1 and 8 - 6:00pm-7:00pm'
 price: 20
 description: >-
   Brioche is a technique that results in a beautiful squishy texture. This cowl
-  would be a great first project.
+  would be a great first project. If you can knit and purl then you can work
+  Brioche!
 ---
 
 
