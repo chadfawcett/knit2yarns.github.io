@@ -1,12 +1,13 @@
 ---
-title: Crochet 101 (FULL)
-date: 2017-11-10T03:53:47.000Z
+title: Beginner Crochet
+date: 2018-02-21T00:00:00-08:00
 image_url: /img/uploads/Boyfriend Cowl 3 (1).jpg
 meta_1: '2 classes, 2 hours each'
-meta_2: 'Nov 9 and 16 - 6:00pm-8:00pm'
+meta_2: 'Feb 21 and 28 - 6:00pm-8:00pm'
 price: '40'
-price_details: Plus supplies
-description: 'Come and learn the basics of crochet while working on this stylish accessory. '
+description: >-
+  During this class you will start out practicing on a dishcloth and then begin
+  a beautiful cowl. Before you know it, you’ll be wearing it!
 ---
 
 
