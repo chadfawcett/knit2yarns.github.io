@@ -1,7 +1,7 @@
 ---
 title: Needle Felting
-date: 2018-04-25T17:18:45-07:00
-image_url: null
+date: 2018-04-26T00:18:45.000Z
+image_url: /img/uploads/IMG_6483.jpg
 meta_1: '1 class, 2 hours'
 meta_2: 'April 25 - 6:00pm-8:00pm'
 price: '20'
@@ -11,4 +11,5 @@ description: >-
   felting tools and sculpting techniques.  This is a lovely project for a
   beginner or an experienced felter :)
 ---
+
 
