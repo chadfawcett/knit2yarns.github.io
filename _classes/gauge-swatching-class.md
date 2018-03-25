@@ -1,15 +1,14 @@
 ---
-title: Gauge Swatching Class
-date: 2017-09-14T18:00:49-07:00
+title: Gauge Swatching
+date: 2018-04-07T18:00:49-07:00
 image_url: /img/uploads/IMG_7556.jpeg
 meta_1: '1 class, 2 hours'
-meta_2: 'Sept 14 - 6:00pm-8:00pm'
+meta_2: 'April 7 - 10:00am-12:00pm'
 price: '20'
 price_details: null
 description: >-
-  A whole class about gauge? Yes it is that important. This class will help
-  demystify gauge and teach you how to make and measure a swatch. Also it will
-  help you sort out what to do when your gauge doesn’t match that of the
-  pattern.
+  This class will teach you how to make and measure a gauge swatch, and help you
+  decide what to do if your gauge doesn’t measure the same as the pattern.
 ---
+
 
