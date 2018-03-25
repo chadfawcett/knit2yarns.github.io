@@ -1,14 +1,14 @@
 ---
 title: Colourwork
-date: 2017-09-16T10:00:09-07:00
+date: 2018-04-28T10:00:09-07:00
 image_url: /img/uploads/IMG_1682.jpeg
-meta_1: '1 class, 2 hours'
-meta_2: 'Sept 16 - 10:00am-12:00pm '
-price: '20'
-price_details: + pattern purchase
+meta_1: '1 class, 3 hours'
+meta_2: 'April 28 - 1:00pm-4:00pm '
+price: '30'
+price_details: ''
 description: >-
-  This class will introduce you to working with more than one colour while
-  making a beautiful cowl. You will be knitting in the round, so experience with
-  that is beneficial.
+  Colourwork has  made a huge comeback lately. Once you learn some simple
+  techniques, it will open up a world of possibilities for you.
 ---
+
 
