@@ -1,6 +1,6 @@
 ---
 title: Humulus Sweater
-date: 2018-08-25T08:53:41-07:00
+date: 2018-08-25T15:53:41.000Z
 image_url: null
 meta_1: >-
   Sharon and I will be available to help on drop in knitting days. Wednesday and
@@ -12,6 +12,7 @@ price_details: >-
   https://www.ravelry.com/patterns/library/humulus-2
 description: >-
   Come join us for our summer knit along! You will need to buy the pattern,
-  choose your size, and get some yarn. I can’t wait to cast on!  
+  choose your size, and get some yarn. I can’t wait to cast on!
 ---
+
 
