@@ -7,11 +7,12 @@ meta_1: >-
   Saturday mornings from 10-12. Help is available on Aug. 8,11,15,18,22, and 25
 meta_2: Can’t wait to cast on!
 price: '0'
-price_details: ' Patter purchase required @ https://www.ravelry.com/patterns/library/humulus-2'
+price_details: ' Patter purchase required at. https://www.ravelry.com/patterns/library/humulus-2'
 description: >-
   Come join us for our summer knit along! You will need to buy the pattern,
   choose your size, and get some yarn. I can’t wait to cast on!
 ---
+
 
 
 
