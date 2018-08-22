@@ -10,8 +10,9 @@ description: >-
   Have you wanted to try your hand at felting? This class will be a lot of fun. 
 
   These little bowls are practical and useful too. You decide how big you’d like
-  to make it
+  to make it.
 ---
+
 
 
 
