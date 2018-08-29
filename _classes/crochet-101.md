@@ -9,8 +9,7 @@ price_details: Plus supplies
 description: >-
   During this class you will start out practicing on a dishcloth and then begin
   a beautiful cowl. Before you know it, you’ll be wearing it!
-
-  Picture coming soon
 ---
+
 
 
