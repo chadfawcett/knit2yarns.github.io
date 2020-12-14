@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: TwoStoryRobot/knit2yarns.github.io
+  repo: chadfawcett/knit2yarns.github.io
   branch: master
 
 media_folder: "/img/uploads"
